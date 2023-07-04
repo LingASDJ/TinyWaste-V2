@@ -69,7 +69,7 @@ var PLAYER_STATUS_INIT = {
         min:1,
         progerss:0,
         name:'运气',
-        desc:'Karma is really a bitch.'
+        desc:'运气也是探险的一部分，愿你运气爆棚！'
     },
     agility:{
         value:4,
