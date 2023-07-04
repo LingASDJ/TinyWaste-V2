@@ -13,7 +13,7 @@ $(function() {
 });
     
 function loader(){
-    if(self.location.host != "tw.wislay.com"){
+    if(self.location.host == "tw.wislay.com"){
         $("#overlay").show();
         $("#overlay").html("<span style='font-size:1.5em;color:#FFFFFF;'>域名已转移，跳转中...</span>");
         setTimeout(function(){
